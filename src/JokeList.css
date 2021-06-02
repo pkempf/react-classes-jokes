@@ -1,0 +1,22 @@
+@import url("https://use.fontawesome.com/releases/v5.3.1/css/all.css");
+
+.JokeList {
+  margin: 0 20px;
+}
+
+.JokeList-loading {
+  position: absolute;
+  border: 2px solid tomato;
+  border-radius: 20px;
+  margin: 20px 50px 0 0;
+  padding: 20px;
+  color: tomato;
+}
+
+.JokeList-getmore {
+  margin: 1em 0;
+  font-size: 150%;
+  border-radius: 0.5em;
+  background-color: tomato;
+  color: white;
+}
